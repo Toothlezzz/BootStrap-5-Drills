@@ -1,0 +1,19 @@
+.layout{
+    background: linear-gradient(
+        to bottom right, 
+        #4f4de9 0%, 
+        #28c5f5 50%, 
+        #78fff8 100%
+    );
+}
+.graybg{
+    background: linear-gradient(
+        to bottom right, 
+        #f1f1f1 10%, 
+        #f1f1f1 30%, 
+        white 80%
+    );
+    border-radius: 50%;
+    text-align: center;
+    margin-top: 5px;
+}
